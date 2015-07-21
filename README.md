@@ -5,10 +5,9 @@ ___
 Literate programming report at http://mathbiol.github.io/dcis/html/harada2.html 
 
 
-with 3D rotation video at 
-<a href="https://www.youtube.com/embed/VX12k1N96to” target="_blank"><img src=“http://mathbiol.github.io/dcis/html/harada2_16.png”/></a>
+with 3D rotation video at
 
-
+[![Everything Is AWESOME](http://mathbiol.github.io/dcis/html/harada2_16.png)](https://www.youtube.com/embed/VX12k1N96to)
 
 
 
